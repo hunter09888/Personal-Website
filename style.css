@@ -1,0 +1,33 @@
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    background-color: gray;
+}
+.links {
+box-sizing: inherit;
+background-color: grey;
+color: black;
+margin: 0.3em;
+align-self: flex-end;
+display: flex;
+text-align: center;
+}
+#jobtitle {
+    font-size: 2em;
+font-family: fantasy;
+}
+#name {
+    font-size: 3.2em;
+    font-weight: bold;
+    font-family: fantasy;
+}
+body {
+    color: lightslategrey;
+    background-color:rgb(34, 30, 43);
+}
+.container {
+    background-color: black;
+    margin-top: 5em;
+}
